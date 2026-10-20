@@ -1,0 +1,164 @@
+# 🐾 MEOW BOT — PRIVACY POLICY
+
+**Last Updated:** October 21, 2026
+
+Welcome to MEOW! Your privacy matters to us. This Privacy Policy explains what information the MEOW Discord bot ("MEOW", "the Bot", "we", "our", or "us") may collect, how it is used, how it is stored, and what choices you have.
+
+By using MEOW, you acknowledge this policy.
+
+## 1. Information We Collect
+
+MEOW may process or store the following information when you or your server use its features.
+
+**Discord identifiers**
+- Discord user IDs.
+- Discord server (guild) IDs.
+- Channel and role IDs required for configuration and functionality.
+
+**Games and virtual economy**
+- Virtual currency balances.
+- Game results, statistics, and leaderboard positions.
+- Daily reward cooldowns and streaks.
+- Achievements, levels, and profile information.
+- Relevant transaction records for virtual points.
+
+**Giveaways and events**
+- Giveaway entries and participation records.
+- Giveaway configuration, prizes, winners, and timestamps.
+
+**Moderation and security**
+- Warning histories and moderation actions.
+- Moderator and affected-user IDs.
+- Reasons, durations, and timestamps associated with moderation actions.
+- Limited message information needed for configured spam detection, filtering, and moderation features.
+
+**Server configuration**
+- Configured channels, roles, permissions, filters, and welcome messages.
+- Settings chosen by authorized server administrators.
+
+**Technical information**
+- Error logs and diagnostic information needed to troubleshoot problems, maintain reliability, and protect the Bot.
+
+MEOW does not need your Discord password to operate. Never share your password, authentication tokens, or other login credentials with the Bot's operators.
+
+The information actually collected depends on which features are implemented and enabled.
+
+## 2. How We Use Information
+
+Information may be used to:
+
+- Operate commands, games, and interactive features.
+- Maintain virtual currency balances, achievements, and leaderboards.
+- Manage giveaways and record their results.
+- Execute moderation actions and maintain moderation logs.
+- Remember server settings between restarts.
+- Detect spam, abuse, exploits, and unauthorized activity.
+- Diagnose errors, improve reliability, and maintain security.
+- Respond to legitimate support, privacy, and abuse reports.
+
+We do not need to collect information unrelated to these purposes.
+
+## 3. Message Content
+
+MEOW may process message content when a feature requires it, such as spam detection or configured moderation filters.
+
+The Bot should only receive message content through Discord's supported permissions and intents. Features that do not need message content should avoid collecting or storing it.
+
+Message content should not be retained longer than necessary for the relevant feature, unless a legitimate security or moderation need requires otherwise.
+
+## 4. How Information Is Stored
+
+MEOW may use a database, such as SQLite, to retain information needed for its features.
+
+Appropriate safeguards should be used to protect stored data against unauthorized access, accidental loss, and misuse.
+
+Access to moderation records and administrative settings should be limited to authorized personnel.
+
+No system can guarantee absolute security. We will take reasonable measures to protect the information handled by MEOW.
+
+## 5. Sharing of Information
+
+We do not intend to sell users' personal information.
+
+Information may be processed or disclosed when necessary to:
+
+- Provide the Bot's functionality through Discord.
+- Operate hosting, database, or infrastructure services.
+- Respond to valid legal obligations.
+- Investigate security incidents, fraud, or serious abuse.
+- Protect users, servers, and the integrity of the service.
+
+Third-party providers may have their own privacy policies and data-handling practices.
+
+MEOW should not publicly expose private moderation records, internal logs, or confidential server configuration.
+
+## 6. Data Retention and Deletion
+
+Information is retained only for as long as reasonably necessary for the relevant functionality, security, and legitimate operational purposes, subject to applicable legal requirements.
+
+Different information may have different retention periods. For example:
+
+- Game statistics may remain while a server uses the economy features.
+- Giveaway records may be retained for result verification and dispute resolution.
+- Moderation records may be retained according to the server's configured policies.
+- Diagnostic logs should be periodically reviewed and deleted when no longer needed.
+
+You may contact the Bot's owner to ask about information associated with your Discord account or request its deletion.
+
+Some information may need to be retained temporarily for security, dispute resolution, or legal obligations. Where appropriate, we will explain any limitations on a deletion request.
+
+Removing MEOW from a server may stop further processing for that server's features, but it does not necessarily delete previously stored records automatically.
+
+## 7. Server Administrators and Moderators
+
+Server administrators control many of the Bot's settings, including moderation configuration and logging channels.
+
+Administrators are responsible for configuring these features appropriately and restricting access to sensitive information.
+
+If you have concerns about information recorded by MEOW on a particular server, you may also need to contact that server's owner or moderation team.
+
+## 8. Children's Privacy
+
+MEOW is intended to be used in accordance with Discord's applicable age requirements and policies.
+
+We do not knowingly seek to collect unnecessary personal information from children. If you believe information has been collected inappropriately, contact the Bot's owner so the matter can be reviewed.
+
+## 9. Your Choices and Rights
+
+Depending on your location and applicable law, you may have rights concerning your personal information, including requesting access, correction, or deletion.
+
+To submit a privacy request, contact the Bot's owner through the official support server or designated privacy channel.
+
+Please provide enough information to identify the relevant records without sharing your password, authentication tokens, or other sensitive login credentials.
+
+We may need to verify a request before acting on it.
+
+## 10. International Processing
+
+Depending on the hosting provider and infrastructure used by MEOW, information may be processed or stored in different countries.
+
+Where applicable, appropriate safeguards should be used for international data transfers in accordance with relevant legal requirements.
+
+## 11. Third-Party Services
+
+MEOW operates through Discord and may rely on third-party hosting or infrastructure services.
+
+Your use of Discord is also subject to Discord's Privacy Policy and Terms of Service.
+
+MEOW is an independent bot and is not officially affiliated with or endorsed by Discord.
+
+## 12. Changes to This Policy
+
+This Privacy Policy may be updated when MEOW's features, data practices, or applicable legal requirements change.
+
+The latest version will be published in the designated Privacy Policy channel, along with an updated date.
+
+Significant changes should be communicated where reasonably practical.
+
+## 13. Contact
+
+For privacy questions, data access requests, deletion requests, or concerns about information handled by MEOW, contact the Bot's owner through the official support server or designated privacy channel.
+
+**MEOW Team 🐾**
+
+Your privacy matters. We aim to collect only what is needed to make MEOW work and to handle that information responsibly.
